@@ -1,0 +1,22 @@
+.right-side {
+    position: relative;
+    left: 15%;
+  }
+
+.leftofright {
+    position: relative;
+    top: -2px;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+p {
+    padding-top: 0 !important;
+    margin-right: 5px;
+    color:white;
+}
